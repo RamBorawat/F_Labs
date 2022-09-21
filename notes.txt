@@ -1,0 +1,15 @@
+4 routes 1 protected
+
+1 external css
+
+
+npm @react-navigation/native install react-native-screens react-native-safe-area-context
+
+
+small shoping app
+// 12345
+1 page => show Product
+2 page => show to cart
+3 page => payment page
+4 page => scan from show order
+
